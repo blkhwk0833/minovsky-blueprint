@@ -1,5 +1,3 @@
-Of course. Here is the definitive guide for **Minovsky (v2.4)**, updated with all of our recent refinements and presented with no brevity.
-
 # **The Definitive Guide to Minovsky (v2.4)**
 
 ## **Project Goal**
